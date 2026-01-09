@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /register
+Disallow: /login
+Disallow: /password/reset
+Allow: /
+
+Sitemap: https://marketingassignmentshelp.co.uk/sitemap.xml
